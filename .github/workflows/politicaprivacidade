@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Política de Privacidade — SOE Marketing Digital</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 760px; margin: 0 auto; padding: 40px 24px; background: #fafafa; }
+  h1 { font-size: 1.9rem; margin-bottom: 4px; }
+  h2 { font-size: 1.2rem; margin-top: 32px; color: #ff6b3d; }
+  .updated { color: #777; font-size: 0.9rem; margin-bottom: 28px; }
+  p, li { font-size: 1rem; }
+  a { color: #ff6b3d; }
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid #e0e0e0; font-size: 0.85rem; color: #999; }
+</style>
+</head>
+<body>
+  <h1>Política de Privacidade</h1>
+  <p class="updated">SOE — Marketing Digital · Última atualização: 24 de julho de 2026</p>
+
+  <p>Esta Política de Privacidade descreve como a SOE — Marketing Digital ("nós") trata dados no contexto de sua ferramenta interna de automação de gestão de anúncios ("Aplicativo"). O Aplicativo é de uso interno e restrito, destinado exclusivamente à administração das contas de anúncios sob gestão da SOE e de seus clientes.</p>
+
+  <h2>1. Finalidade do Aplicativo</h2>
+  <p>O Aplicativo integra-se à API de Marketing da Meta para automatizar tarefas de gestão de tráfego pago, incluindo leitura de métricas de desempenho, verificação de saldo de contas, criação e otimização de campanhas e anúncios, e geração de relatórios operacionais.</p>
+
+  <h2>2. Dados acessados</h2>
+  <p>Por meio da API oficial da Meta, o Aplicativo acessa dados das contas de anúncios expressamente autorizadas, tais como: nome e status da conta, moeda, saldo e limite de gasto, métricas de desempenho de campanhas (impressões, cliques, custo, conversões), estruturas de campanha, conjuntos de anúncios e criativos.</p>
+  <p>O Aplicativo não coleta dados pessoais de usuários finais do Facebook ou Instagram além do estritamente necessário para a operação das contas de anúncios administradas.</p>
+
+  <h2>3. Uso dos dados</h2>
+  <p>Os dados são utilizados exclusivamente para fins operacionais de gestão de tráfego pago das contas administradas. Não vendemos, alugamos ou compartilhamos esses dados com terceiros para fins de marketing.</p>
+
+  <h2>4. Armazenamento e segurança</h2>
+  <p>As credenciais de acesso (tokens) são armazenadas de forma segura e restrita, em ambiente controlado, e não são compartilhadas publicamente. O acesso aos dados é limitado à operação da própria SEO e às contas sob sua gestão autorizada.</p>
+
+  <h2>5. Retenção</h2>
+  <p>Dados operacionais são mantidos apenas pelo tempo necessário à prestação dos serviços de gestão de anúncios. Relatórios podem ser retidos para fins de histórico e prestação de contas aos clientes.</p>
+
+  <h2>6. Direitos e exclusão de dados</h2>
+  <p>Clientes cujas contas são administradas podem, a qualquer momento, solicitar a revogação do acesso do Aplicativo às suas contas (removendo-o das configurações do respectivo Gerenciador de Negócios da Meta) e solicitar a exclusão de dados operacionais relacionados, entrando em contato pelo e-mail abaixo.</p>
+
+  <h2>7. Conformidade com as políticas da Meta</h2>
+  <p>Este Aplicativo opera em conformidade com os Termos da Plataforma Meta e as Políticas para Desenvolvedores da Meta.</p>
+
+  <h2>8. Contato</h2>
+  <p>Para dúvidas sobre esta política ou solicitações relacionadas a dados, entre em contato pelo e-mail de contato cadastrado no aplicativo da SOE — Marketing Digital.</p>
+
+  <footer>
+    Este documento aplica-se ao aplicativo interno de automação de anúncios da SOE — Marketing Digital.
+  </footer>
+</body>
+</html>
